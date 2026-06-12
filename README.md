@@ -21,8 +21,6 @@
   <a href="https://github.com/SaraSopr"><img src="https://img.shields.io/badge/GitHub-Follow-1F1B3A?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-
-
 </div>
 
 ---
@@ -185,14 +183,10 @@ Backend engineer by craft, **AI-curious by nature**. I build production systems 
 
 ```yaml
 learning:
-  - Advanced retrieval architectures for multi-agent LLM systems
-  - Time-series forecasting under asymmetric loss functions
-  - Modern ML in Practice @ NTNU
+  - How to bring AI into real engineering workflows
 
 building:
-  - Travel Recommendation App (FastAPI + React + LLM pipeline)
-  - PolyMind — multi-agent RAG conversational system
-  - LLMIntent — LLM-driven SDN traffic controller
+  - Travel Recommendation App 
 
 openTo:
   - Software / Backend Engineering roles
@@ -216,7 +210,7 @@ openTo:
 
 <div align="center">
 
-> *"Engineering rigor and production discipline, combined with hands-on AI work that ships."*
+> *"Success is going from failure to failure without losing your enthusiasm."*
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer)
 
