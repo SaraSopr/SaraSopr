@@ -134,25 +134,6 @@ Backend engineer by craft, **AI-curious by nature**. I build production systems 
 
 ---
 
-## <img src="https://media.giphy.com/media/W5fwxF7tJzpr1NlhVK/giphy.gif" width="28"> GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/SaraSopr">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SaraSopr&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D0B1F&title_color=A78BFA&text_color=E5E7EB&icon_color=8B5CF6&ring_color=6D28D9" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=SaraSopr&hide_border=true&background=0D0B1F&stroke=6D28D9&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E5E7EB&dates=E5E7EB&currStreakNum=E5E7EB&sideNums=E5E7EB" />
-</a>
-
-<br/>
-
-<a href="https://github.com/SaraSopr">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraSopr&layout=compact&hide_border=true&langs_count=10&bg_color=0D0B1F&title_color=A78BFA&text_color=E5E7EB" />
-</a>
-
-</div>
-
----
-
 ## <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="28"> Contribution Activity
 
 <div align="center">
